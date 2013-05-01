@@ -15,4 +15,4 @@ title: About
 1. Create a page on Github
 1. Use markdown to create a page
 
-![Cap'n K'nuckles](http://fc09.deviantart.net/fs46/i/2009/216/8/c/Cap__n_K__nuckles_by_brucethebandit.jpg)
+![Schnitzel](http://2.bp.blogspot.com/_NDSjVUOUbMg/S8XUUEMiEwI/AAAAAAAAAJU/aii7ldGPC6Y/s1600/Shnitzel_by_rongs1234.jpg)
